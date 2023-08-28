@@ -34,3 +34,4 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list  
 
 # example iamges
+![network-api-img](https://github.com/pzhong1/Social-Network-API/assets/123424361/2fe8c529-235a-45d8-b10b-a5901c131598)
