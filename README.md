@@ -41,4 +41,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 # MongoDB database
 
+<img width="1440" alt="Screenshot 2023-08-28 at 12 40 11 PM" src="https://github.com/pzhong1/Social-Network-API/assets/123424361/9d6b2050-85a6-4071-b959-60fb0e260033">
 
