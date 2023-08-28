@@ -39,3 +39,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 <img width="1440" alt="Screenshot 2023-08-28 at 12 26 09 PM" src="https://github.com/pzhong1/Social-Network-API/assets/123424361/cc29efcc-71db-4fda-a89a-f8c592ddf2a6">
 
+# MongoDB database
+
+
