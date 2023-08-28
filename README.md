@@ -35,3 +35,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 # example iamges
 ![network-api-img](https://github.com/pzhong1/Social-Network-API/assets/123424361/2fe8c529-235a-45d8-b10b-a5901c131598)
+
+
+<img width="1440" alt="Screenshot 2023-08-28 at 12 26 09 PM" src="https://github.com/pzhong1/Social-Network-API/assets/123424361/cc29efcc-71db-4fda-a89a-f8c592ddf2a6">
+
