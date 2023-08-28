@@ -2,6 +2,7 @@
 https://drive.google.com/file/d/1wdWQshsm7mCA9Ku14Vwp4LO1M6H0tabo/view
 
  ## URL of the GitHub repository.
+ https://github.com/pzhong1/Social-Network-API.git
  
 ## Task 
 Build an API for a social network web application.  
