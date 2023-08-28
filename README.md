@@ -43,3 +43,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 <img width="1440" alt="Screenshot 2023-08-28 at 12 40 11 PM" src="https://github.com/pzhong1/Social-Network-API/assets/123424361/9d6b2050-85a6-4071-b959-60fb0e260033">
 
+<img width="1440" alt="Screenshot 2023-08-28 at 12 40 39 PM" src="https://github.com/pzhong1/Social-Network-API/assets/123424361/8ee6bb0e-d999-4470-94ba-8470a4125cf0">
